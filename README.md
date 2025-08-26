@@ -55,18 +55,13 @@
 
 <h2>📋 About Me</h2>
 
-- 🔭 I’m currently working on **An e-commerce website using React, Redux Toolkit, and Node.js. A thesis project on brain strokes.**
-
-- 🌱 I’m currently learning **Advanced Redux Toolkit for state management. Backend development with Node.js and MongoDB. Competitive programming strategies to level up on platforms like Codeforces.**
-
-- 👯 I’m looking to collaborate on **Open-source projects in React or Node.js. Innovative solutions using machine learning for healthcare.**
-
-- 🤝 I’m looking for help with **Improving my machine learning skills, especially for healthcare applications. Exploring better techniques for database optimization.**
-
-- 💬 Ask me about **Competitive programming challenges and strategies. Using Postman for API testing. Setting up development environments for React and Node.js.**
-
-- 📫 How to reach me **mehedihasana383@gmail.com**
-
-- ⚡ Fun fact **I love teaching physics and higher math to students in my village school—it’s my way of giving back to the community! 📚✨**
+- 🔭 I’m currently working on **a brain stroke detection project using FastAPI & Gradio, and an e-commerce website with React, Redux Toolkit, and Node.js.**  
+- 🌱 I’m currently learning **advanced React concepts (Hooks, Redux Toolkit, optimization), backend development with Node.js & MongoDB, and improving my machine learning skills for healthcare applications.**  
+- 👯 I’m looking to collaborate on **open-source projects in React, Node.js, and AI-driven healthcare solutions.**  
+- 🤝 I’m seeking guidance on **database optimization, deploying full-stack applications, and sharpening competitive programming strategies.**  
+- 💻 Competitive Programmer: **Active on Codeforces, AtCoder, and LeetCode — aiming to improve my ratings and problem-solving skills.**  
+- 📚 I also enjoy **teaching physics and higher mathematics to students in my village school, helping them grow while strengthening my own fundamentals.**  
+- 📫 Reach me at: **mehedihasana383@gmail.com**  
+- ⚡ Fun fact: **Outside coding, I’m passionate about problem-solving, mentoring, and giving back to my community.**  
 
 ---
