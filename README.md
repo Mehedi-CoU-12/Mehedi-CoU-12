@@ -50,7 +50,7 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-cou-12&show_icons=true&locale=en" alt="GitHub Stats" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-cou-12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-cou-12&" alt="mehedi-cou-12" /></p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-cou-12&" alt="mehedi-cou-12" />
 </div>
 
 <h2>📋 About Me</h2>
