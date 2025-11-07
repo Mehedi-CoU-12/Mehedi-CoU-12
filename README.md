@@ -55,8 +55,8 @@
 
 <h2>📋 About Me</h2>
 
-- 🔭 I’m currently working on **a brain stroke detection project using FastAPI & Gradio, and an e-commerce website with React, Redux Toolkit, and Node.js.**  
-- 🌱 I’m currently learning **advanced React concepts (Hooks, Redux Toolkit, optimization), backend development with Node.js & MongoDB, and improving my machine learning skills for healthcare applications.**  
+- 🔭 I’m currently working as a **Software Engineer** At **Appifylab**  
+- 🌱 I’m currently working on **advanced React concepts (Hooks, Redux Toolkit, optimization), backend development with Node.js, Mongodb && Mysql**  
 - 👯 I’m looking to collaborate on **open-source projects in React, Node.js, and AI-driven healthcare solutions.**  
 - 🤝 I’m seeking guidance on **database optimization, deploying full-stack applications, and sharpening competitive programming strategies.**  
 - 💻 Competitive Programmer: **Active on Codeforces, AtCoder, and LeetCode — aiming to improve my ratings and problem-solving skills.**  
