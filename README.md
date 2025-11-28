@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mehedi-cou-12&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-cou-12" />
+</p>
+
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -68,4 +72,9 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 ###
+
