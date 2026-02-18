@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Mehedi Hasan from Bangladesh.<br><br>- 🔭 I’m working as a Software Engineer at Appifylab, and building projects like an e-commerce platform (React, Redux Toolkit, Node.js) and a brain stroke detection system using FastAPI & Gradio.<br><br>- 📚 I'm currently learning advanced React (Hooks, RTK, optimization), backend development with Node.js & MongoDB, and improving my machine learning skills for healthcare applications. I also practice competitive programming in C++ on Codeforces, LeetCode, and GFG.<br><br>- ⚡ In my free time I solve competitive programming problems, teach physics & higher math to students in my village school, and explore topics related to networking, system design, and image processing.</p>
+<p align="left">I'm Mehedi Hasan from Bangladesh.<br><br>- 🔭 I’m working as a Software Engineer at Appifylab, and building projects like an e-commerce platform (React, Redux Toolkit, Node.js) and a brain stroke detection system using FastAPI & Gradio.<br><br>- 📚 I'm currently learning advanced React (Hooks, RTK, optimization), backend development with Node.js & MongoDB. I also practice competitive programming in C++ on Codeforces, LeetCode, and GFG.<br><br>- ⚡ In my free time I solve competitive programming problems, teach physics & higher math to students in my village school, and explore topics related to networking, system design.</p>
 
 ###
 
