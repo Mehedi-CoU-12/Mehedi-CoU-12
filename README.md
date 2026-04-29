@@ -78,3 +78,11 @@
 
 ###
 
+<h3 align="left">📊 Activity Overview</h3>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedi-cou-12&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedi-cou-12&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedi-cou-12&theme=github_dark" height="220"/>
+</div>
+
