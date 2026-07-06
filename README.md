@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"  />
 </p>
 
 <br>
@@ -68,8 +68,9 @@ const mehedi = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-cou-12&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-cou-12&layout=compact&theme=github_dark_dimmed&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehedi-cou-12&layout=compact&theme=dark&hide_border=true" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mehedi-cou-12&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-cou-12&layout=compact&theme=github_dark_dimmed&hide_border=true" height="165" /> -->
 </p>
 
 <p align="center">
